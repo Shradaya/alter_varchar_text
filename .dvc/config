@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = https://drive.google.com/drive/folders/15GS1GHmw4W_TE3qGTPwCtCTQBdrDXEDb
+    url = s3://clincapture-dev-poc/test_dvc/
